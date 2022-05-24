@@ -1,6 +1,6 @@
 # Anotações
 
-### Git/GitHub
+Git/GitHub
 
 Criptografia SHA1
 
@@ -8,18 +8,18 @@ Etapas de um Git: Unmodified, modified e staged (existe um ciclo entre as etapas
 
 Etapas: Working Directory, Staging area, Local repository e remote repository (GitHub)
 
-Comandos Git: 
+# Comandos Git 
 
-**git status:** Retorna o estado atual do repositório
+git status: Retorna o estado atual do repositório
 
-**git pull:** puxa a ultima versão do repositório 
+git pull: puxa a ultima versão do repositório 
 
-**git push:** Envia a versão local para o repositório remoto
+git push: Envia a versão local para o repositório remoto
 
-**git clone:** Cria uma cópia local do repositório
+git clone: Cria uma cópia local do repositório
 
-**git init:** Inicia um repositório git em um diretório
+git init: Inicia um repositório git em um diretório
 
-**git add:** Adiciona os arquivos para a área de stage
+git add: Adiciona os arquivos para a área de stage
 
-**git commit:** Grava as alterações efetuadas nos arquivos do repositório local
+git commit: Grava as alterações efetuadas nos arquivos do repositório local

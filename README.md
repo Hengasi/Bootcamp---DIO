@@ -1,2 +1,2 @@
-# Bootcamp---DIO
-RepositÃ³rio para organizaÃ§Ã£o dos estudos e projetos do Bootcamp - Fullstack - DIO 
+# Bootcamp DIO
+Repositório para organização dos estudos e projetos do Bootcamp - Fullstack - DIO 
